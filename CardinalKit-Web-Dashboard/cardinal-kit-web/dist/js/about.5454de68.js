@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkcardinal_kit_web"]=self["webpackChunkcardinal_kit_web"]||[]).push([[443],{5834:function(n,a,t){t.r(a),t.d(a,{default:function(){return b}});var e=t(6252);const r={class:"about"},u=(0,e._)("h1",null,"This is an about page",-1),i=[u];function c(n,a){return(0,e.wg)(),(0,e.iD)("div",r,i)}var s=t(3744);const l={},o=(0,s.Z)(l,[["render",c]]);var b=o}}]);
+//# sourceMappingURL=about.5454de68.js.map
